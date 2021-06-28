@@ -1,0 +1,3942 @@
+{
+    "centers": [
+        {
+            "address": "ASPRIN GARDEN KILPAUK CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609227
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "P S Nagar UPHC",
+            "pincode": 600010,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCPurusaiwakkam Near Sundaram Pillai SchoolChennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 157203
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Purasaiwakkam UPHC",
+            "pincode": 600007,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "ICF NORTH COLONY AYANAVRAM CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 617964
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "ICF HOSPITAL",
+            "pincode": 600038,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "12:00:00"
+        },
+        {
+            "address": "UCHC65-119 Nsk SalaiKodambakkamChennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 412592
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Vadapalani UCHC",
+            "pincode": 600024,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCNew Colony Perumal Koil Street Nerkundram Chennai",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 157715
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Nerkundram II UPHC",
+            "pincode": 600107,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "36 RAJAMANGALM MAIN ROAD VILLVIVAKKAM CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609433
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Rajamangalam UPHC",
+            "pincode": 600049,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCUnit Office 32 Poonamalle High Road Chennai",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 185366
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Madhuravoyal UPHC",
+            "pincode": 600095,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "2 KAMARAJAR NAGAR 8TH ST THIRUVANMIYUR CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 610537
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Thiruvanmiyur UPHC",
+            "pincode": 600041,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NO 16 GAJAPATHY STREET SHENOY NAGAR CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609466
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Shenoy Nagar UPHC",
+            "pincode": 600040,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "1 HOSPITAL ROAD KANNAMMAPET CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 610860
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kannammapet UPHC",
+            "pincode": 600017,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "4 SASTHRI NAGAR ADAMBAKKAM RD CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 610778
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Shastri Nagar UPHC",
+            "pincode": 600088,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCPadi Round Building Uphc  Tvs Avenue Main RoadNear Chennai Public School Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 155699
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Padi Round Building UPHC",
+            "pincode": 600101,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC Temple StNew Avadi RoadKilpaukChennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 157173
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kilpauk UPHC",
+            "pincode": 600010,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "SHENOY NAGAR PULLA AVEUNE SCHOOL CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 629586
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Shenoy Nagar EOC",
+            "pincode": 600030,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "2ND STREET OPPOSITE TO AMMA UNAVAGAM KANNAGI NAGAR CHENNAI",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 185276
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Kannagi Nagar UCHC",
+            "pincode": 600097,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC Near Chennai Primary SchoolSolai StreetAyanavaram Chennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 156693
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Ayanavaram UPHC",
+            "pincode": 600023,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Nandapakkam Defence Colony Guindy",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 619367
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Military Hospital Nandambakkam",
+            "pincode": 600032,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "3RD AVENUE  ANNANAGAR CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 653162
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "PERIPHERAL 2",
+            "pincode": 600102,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "12:00:00"
+        },
+        {
+            "address": "UPHCKalamegam SalaiMugappair West Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183948
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Mugappair West UPHC",
+            "pincode": 600037,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "KK NAGAR MAIN ROAD NANGANALLUR",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 608469
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Nanganallur UPHC",
+            "pincode": 600014,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCNo. 32 Tnhb Street32nd Pakthavatchalam School Back Side Korattur Ambattur Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183915
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Korattur UPHC",
+            "pincode": 600050,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC No.3 Station Road Varadharajapuram AmbatturChennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183928
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Varadharajapuram UPHC",
+            "pincode": 600053,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC South Park StreetChennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183899
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Venkatapuram UPHC",
+            "pincode": 600053,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "NO.14SCHOOL ROAD CHETPETCH.",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 157255
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Chetpet UPHC",
+            "pincode": 600031,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCAminjikarai East Collectrate Colony6th Cross Street AminjikaraiChennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 183880
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 18,
+            "long": 80,
+            "name": "Aminjikarai East UPHC",
+            "pincode": 600029,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Hospital Rd Sairam Avenue Valasaravakkam",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 568807
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Porur UCHC",
+            "pincode": 600116,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCNo.176 4th LaneChindadripetChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 158796
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "IRCS Chinthathripet UPHC",
+            "pincode": 600001,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCRamapuram Unit Office 154 Kambar Salai RamapuramChennai",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 185373
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Ramapuram UPHC",
+            "pincode": 600089,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 1 Kvk Samy StreetSiddha Oragadam AmbatturChennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183788
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Menambedu UPHC",
+            "pincode": 600053,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "NO 74 MEDAVAKKAM MAIN ROAD BHARATHI NAGAR MADIPAKKAM",
+            "block": {
+                "name": "Perungudi"
+            },
+            "center": {
+                "id": 627374
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "19:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "APOLLO CLINIC COVAXIN MADIPAKA",
+            "pincode": 600091,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "20:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHC No 26 Gandhi High Road Oragadam Ambattur Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183893
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Oragadam UPHC",
+            "pincode": 600053,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "NO 1 VENUGOPAL STREET AGATHIYAR NAGAR VILLIVAKKAM CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609311
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Agathiar Nagar UPHC",
+            "pincode": 600040,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCUnit OfficeSakthi NagarPorurChennai",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 185349
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Sakthi Nagar UPHC",
+            "pincode": 600116,
+            "sessions": "    ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "PADA SALAI ST OPP TO PANCHAYAT OFFICE MUGALIVAKKAM CHENNAI",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 608789
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Mugalivakkam UPHC",
+            "pincode": 600125,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Anna Nagar",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 584689
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "04:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Railway Hospital Perambur",
+            "pincode": 600023,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:30:00"
+        },
+        {
+            "address": "23 DHANDAYUTHAPANI 2ND ST CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 608858
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kotturpuram UPHC",
+            "pincode": 600085,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCNo 1 Gangaiammankoil Street Chennai",
+            "block": {
+                "name": "Madhavaram"
+            },
+            "center": {
+                "id": 402209
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Lakshmipuram UPHC",
+            "pincode": 600099,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC12 Kabilar StreetPeramburChennai",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 410009
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Siruvallur UPHC",
+            "pincode": 600011,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "T.H Road Tondiarpet",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 609424
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Jeeva Nagar South UPHC",
+            "pincode": 600081,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC63 All Indio Radio Nagar Tsunami Quarters Ernavoor",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 195059
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Ernavoor UPHC",
+            "pincode": 600057,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "39 5th Main Rd Natesa Nagar Virugambakkam",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608079
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Koyambedu UPHC",
+            "pincode": 600092,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "No.2 Besant RoadTriplicane Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613817
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Triplicane UPHC",
+            "pincode": 600005,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Kamaraj Nagar 2nd St Vyasarpadi",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610702
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 10,
+            "long": 76,
+            "name": "Perambur East UPHC",
+            "pincode": 600011,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "No.14a Appu 2nd Lane Mylapore Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613818
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Santhome UPHC",
+            "pincode": 600004,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No.40 K.B.Dasan Salai TeynampetChennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613816
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Teynampet UPHC",
+            "pincode": 600018,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No.24 Arunachalam Street Chepauk Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613803
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Community Nursing College UPHC",
+            "pincode": 600005,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "5 Sivagnanam St Pondy Bazaar Tnagar",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608263
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Thiyagaraya Nagar UPHC",
+            "pincode": 600017,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC392 Kathivakkam High Road Ennore",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 375444
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kathivakkam UPHC",
+            "pincode": 600057,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00"
+        },
+        {
+            "address": "WESTCOTT ROAD ROYAPETTAH OPP YMCA GROUND CHENNAI",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 603997
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Govt. Royapettah Hospital",
+            "pincode": 600014,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:30:00"
+        },
+        {
+            "address": "2 NEW COLONY 2ND CROSS ST PALAVANTHANGAL CHENNAI",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 608711
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Pazhavanthangal UPHC",
+            "pincode": 600014,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "53 Medavakkam Tank Rd Thiruvalluvar Nagar Dr Ambedkar Nagar Sanyasipuram Ayanavaram",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 583461
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "E S I Hospital Ayanavaram",
+            "pincode": 600023,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Near Station Park Town Chennai Tamil Nadu",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 604166
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "04:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "RGGH CHENNAI",
+            "pincode": 600003,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:30:00"
+        },
+        {
+            "address": "Ambedkar College Roadvysarpadi",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610712
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Elango Nagar UPHC",
+            "pincode": 600039,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "SEVA NAGAR GANTHI ROAD VELACHERY CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 610363
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Velachery UPHC",
+            "pincode": 600042,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Jones Road Anna Nagar St Saidapet",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 637867
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Govt. Hosp. Saidapet -Covaxin",
+            "pincode": 600015,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "4TH STREET BARATHIPURAM CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609337
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Bharathipuram UPHC",
+            "pincode": 600030,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC1Nedunchezhian Salai ManaliChennai",
+            "block": {
+                "name": "Manali"
+            },
+            "center": {
+                "id": 410344
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Manali UPHC",
+            "pincode": 600068,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NO 2 5 DR.KALAINGAR KARUNANIDHI SALAI KABALEESWAR NAGAR NEELANGARAI CHENNAI",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 611121
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Neelangarai UPHC",
+            "pincode": 600119,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCKannabiran Koil Street MadhavaramChennai",
+            "block": {
+                "name": "Madhavaram"
+            },
+            "center": {
+                "id": 195105
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kannabiran UPHC",
+            "pincode": 600060,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC 2nd Link Street R.R. Colony Jafferkanpet Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 157043
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Saidapet West UPHC",
+            "pincode": 600083,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Voc Street Injambakkam Chennai",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 603982
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Injambakkam UCHC",
+            "pincode": 600115,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 1 Pillaiyar Koil St Naduvankarai Chennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 157124
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Aminjikarai West UPHC",
+            "pincode": 600040,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Ashok Nagar UPHC No.34 35th Street Ashok Nagar",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608198
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Ashok Nagar UPHC -",
+            "pincode": 600083,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Chelliamman Koil Sttondiarpet",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610671
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "V O C Nagar UPHC",
+            "pincode": 600081,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC New Colony Perumal Koil Street Nerkundram Chennai",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 157845
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Nerkundram I UPHC",
+            "pincode": 600107,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "MRC NAGARRA PURAM",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 603731
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Spectra Hospitals",
+            "pincode": 600028,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHC69 Amman Koil StreetRoyapuramChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 158762
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Sevenwells UPHC",
+            "pincode": 600001,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "1 Ayyavu 4th Street Jafferkhanpe",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608304
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Jafferkhanpet UPHC",
+            "pincode": 600083,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Guindy",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 570825
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "KIPMR COVID",
+            "pincode": 600032,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC9 Somaiya Street Agaram Tvk NagarChennai",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 402132
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Agaram South UPHC",
+            "pincode": 600082,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC30Kariappan StreetChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 158375
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Perumalpet UPHC",
+            "pincode": 600007,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "GH231Ellaiamman Koil Street Tiruvottiyur Chennai Tamil Nadu 600019",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 410503
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 1,
+            "long": 1,
+            "name": "Thiruvottiyur GH",
+            "pincode": 600019,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "39 Appa St. Vivekananda Nagar",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 609403
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Vivekanandha Nagar UPHC",
+            "pincode": 600118,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "5-639 Old Mahabalipuram Rd Tirumalai Nagar Perungudi Chennai",
+            "block": {
+                "name": "Perungudi"
+            },
+            "center": {
+                "id": 603362
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Apollo Spec HospOMR COVISHIELD",
+            "pincode": 600096,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHC1Mannadiamman Koil Street AdambakkamChennai",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 183869
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Adambakkam I UPHC",
+            "pincode": 600088,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NO. 15 SHAFEE MOHAMMED ROAD THOUSAND LIGHTS CHENNAI",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 603425
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Childrens Hospital",
+            "pincode": 600006,
+            "sessions": "     ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "2 VENKATA RATHINAM NAGAR ADYAR CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 604392
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Adyar UCHC",
+            "pincode": 600020,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC1 Rajangam Mathyaveethi Vadapalani Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 156892
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Vadapalani West UPHC",
+            "pincode": 600026,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Kasima Nagar3rd St",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610690
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Tondiarpet UPHC",
+            "pincode": 600081,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "No.31 C.P.Ramasamy Road Alwarpet Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 608942
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Beemanampet UPHC",
+            "pincode": 600018,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Ayanavaram",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 573675
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Ayanavaram UCHC",
+            "pincode": 600023,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No.1 Pushpa Nagar Main Road Nungambakkam Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613819
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Pushpa Nagar UPHC",
+            "pincode": 600034,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Amman Koil Stsivaji Nagarkorukkupet",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610679
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Korukkupet UPHC",
+            "pincode": 600021,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Madhavaram",
+            "block": {
+                "name": "Madhavaram"
+            },
+            "center": {
+                "id": 568087
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Madhavaram UCHC",
+            "pincode": 600060,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Amman Koil South UPHC No.8 Appu Maistry St Ch- 1",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 607208
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Amman Koil South UPHC",
+            "pincode": 600001,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC77 Kamarajar SalaiVirugambakkamChennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 162821
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Virugambakkam UPHC",
+            "pincode": 600092,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NO-1 SCHOOL ROAD KARAYANCHAVADI PERUNGUDI",
+            "block": {
+                "name": "Perungudi"
+            },
+            "center": {
+                "id": 604167
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Perungudi UCHC",
+            "pincode": 600096,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC1School Street Jothi NagarThiruvottiyurChennai",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 195060
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kuppam UPHC",
+            "pincode": 600019,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Tondiarpet",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 577846
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "R K Nagar UCHC",
+            "pincode": 600021,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "1ST MAIN ROAD TSUNAMI NAGAR OPP. To Bus Depo Chennai",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 185341
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Semmencherry UPHC",
+            "pincode": 600119,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC265th Avenue Road Ashok Nagar Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 155141
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Nallankuppam UPHC",
+            "pincode": 600083,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UCHC945 Thiruvottiyur High RoadChennai",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 410285
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Thiruvottiyur UCHC",
+            "pincode": 600019,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00"
+        },
+        {
+            "address": "Perungudi",
+            "block": {
+                "name": "Perungudi"
+            },
+            "center": {
+                "id": 581756
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Apollo Proton COVISHIELD",
+            "pincode": 600096,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "OFFICERS COLONY  AYANAVARM CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609410
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Nagammair Nagar South UPHC",
+            "pincode": 600023,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No.155A,14th Cross St,mkb Nagar",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610344
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 0,
+            "long": 0,
+            "name": "Vyasarpadi UPHC 1",
+            "pincode": 600039,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "GHKarthikeyan Road Periyar Nagar West PeramburChennai",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 217356
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Govt Peripheral HospPeriyarNag",
+            "pincode": 600082,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "11Begum Sahib 5th LaneRoyapettahChennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 603954
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Mirsahibpet UCHC",
+            "pincode": 600014,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC22 Langs Garden StreetChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 158814
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Pudupet UPHC",
+            "pincode": 600005,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00"
+        },
+        {
+            "address": "No.1 Ramachandra Nagar Sri Ramachandra Nagar Porur",
+            "block": {
+                "name": "Valasaravakkam"
+            },
+            "center": {
+                "id": 569502
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Porur SRMC",
+            "pincode": 600116,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "14:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Ambattur",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 577936
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Padi UCHC",
+            "pincode": 600050,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Elandanur Block Manali New Town",
+            "block": {
+                "name": "Manali"
+            },
+            "center": {
+                "id": 195031
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Manali New Town UPHC",
+            "pincode": 600102,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCSrivinasa Nagar 3rd Main Road KolathurTvk NagarChennai",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 375431
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kolathur UPHC",
+            "pincode": 600099,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 153 Tnhb 3rd St Adambakkam Chennai",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 155900
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Adambakkam TNHB UPHC",
+            "pincode": 600042,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC57 Cooks Road OtteriChennai",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 402128
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Wadia Nagar UPHC",
+            "pincode": 600012,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No.17 R.K.Nagar 2nd Main Street R.A.Puram Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 608906
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "R A Puram UPHC",
+            "pincode": 600028,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Royapuram",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 577943
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Sanjeevarayanpet UCHC",
+            "pincode": 600021,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "51 Jeenis Road Saidapet Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 627390
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Saidapet EOC",
+            "pincode": 600015,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHCAnjugam Nagar 3rd Street Kolathur",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 402183
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Anjugam Nagar UPHC",
+            "pincode": 600099,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "1 JAWAHARLAL ROAD VADAPALANI",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 604744
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "10:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "SIMS HOSPITAL 1",
+            "pincode": 600026,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Ramakamathu Puram Main Road Ramakamathu Puram T.Nagar Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613812
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "S M Nagar UPHC",
+            "pincode": 600017,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No. 10 Dhasaradha Puram 8th ST",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608438
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Dhasarathapuram UPHC",
+            "pincode": 600093,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "21 GREAMS LANE OFF GREAMS ROAD",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 695918
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Mains Greams",
+            "pincode": 600006,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Rajiv Gandhi Salai Panchayat Office Campus Okkiyam Thuraipakkam Chennai",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 612506
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Thoraipakkam UPHC",
+            "pincode": 600097,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Anna Salai Kodungaiyur",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 609369
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kodungaiyur I UPHC",
+            "pincode": 600118,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "46 SOUTH FACE ROAD GUINDY INDUSTRIAL ESTATE EKKATTUTHANGAL CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 609383
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Ekkattuthangal UPHC",
+            "pincode": 600032,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "4TH CROSS STREET KANNAGI NAGAR CHENNAI",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 185316
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Kannagi Nagar UPHC",
+            "pincode": 600097,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "Perungudi",
+            "block": {
+                "name": "Perungudi"
+            },
+            "center": {
+                "id": 636861
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Apollo Proton COVAXIN",
+            "pincode": 600096,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHCGandhi Main RoadPuzhalChennai",
+            "block": {
+                "name": "Madhavaram"
+            },
+            "center": {
+                "id": 195077
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Puzhal UPHC",
+            "pincode": 600066,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "No.1 Trust Puram 10th Cross Street Kodambakkam Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 609038
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Trustpuram UPHC",
+            "pincode": 600024,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "GH50Old Jail Road Mint RoadChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 562544
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "04:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Stanley Medical Clg Hospital",
+            "pincode": 600001,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:30:00"
+        },
+        {
+            "address": "SOWRI STREET ALANDUR CHENNAI",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 604395
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Alandur UCHC",
+            "pincode": 600016,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NO-40 THIRUVENGADA SAMY STREET PULIANTHOPE",
+            "block": {
+                "name": "TVK Nagar"
+            },
+            "center": {
+                "id": 604155
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Pulianthope UCHC",
+            "pincode": 600012,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "1 Govindan Road West Mambala",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 608329
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kumaran Nagar UPHC",
+            "pincode": 600033,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "NEDUNCHEZHIYAN STREET AVIN OPPOSITE SHOLINGANALLUR CHENNAI",
+            "block": {
+                "name": "Sholinganallur"
+            },
+            "center": {
+                "id": 185332
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Sholinganallur UPHC",
+            "pincode": 600119,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHCSaidapet Uphc51Jones Road Saidapet Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 155634
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Saidapet UPHC",
+            "pincode": 600015,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "D BLOCK MMDA  PANDIYAN STREET CHENNAI",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 609264
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "MMDA UPHC",
+            "pincode": 600106,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "12 C P Ramasamy Rd Alwarpet Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 634445
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "15:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Spectra-Alwarpet-CVXIN",
+            "pincode": 600018,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHC 54 4th Main Road C.I.T. NagarChennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 162811
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "C I T Nagar UPHC",
+            "pincode": 600035,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "187 Thiruvottiyur High Rd Kasipuram Tondiarpet Chennai",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 604185
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "CDH Tondiarpet",
+            "pincode": 600081,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "ADAM PARK BUILDING SOUTHERN RAILWAY",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 637791
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "RAILWAY HEALTH UNIT CVX",
+            "pincode": 600003,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "KUTCHERY ROAD MYLAPORE CHENNAI",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 614682
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Mylapore AMS II UPHC",
+            "pincode": 600004,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 1 Erikarai Street Nesapakkam Chennai",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 155442
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Nesapakkam UPHC",
+            "pincode": 600078,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "10 VELAYUTHAMRAJA ST MANDAVELI CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 609720
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 11,
+            "long": 78,
+            "name": "Mandaveli UPHC",
+            "pincode": 600028,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "Fortis Malar HospitalChennai TN.",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 604384
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "14:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Fortis Malar Hospital",
+            "pincode": 600020,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "UPHC47 Swamy Nagar MadhavaramChennai",
+            "block": {
+                "name": "Madhavaram"
+            },
+            "center": {
+                "id": 410597
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Madhavaram UPHC",
+            "pincode": 600060,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "No. 47  17 Sherfudeen Street Choolaimedu Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 613800
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Periyar Nagar UPHC",
+            "pincode": 600094,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 32 Poongavanapuram Main Street KaladipetChennai",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 203793
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Thaangal UPHC",
+            "pincode": 600019,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC 9A Balakrishna Naidu Colony 2nd Street Kaladipet Thiruvottiyur",
+            "block": {
+                "name": "Thiruvottiyur"
+            },
+            "center": {
+                "id": 195034
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Sathangadu UPHC",
+            "pincode": 600019,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00"
+        },
+        {
+            "address": "No.140annai Sandhya Nagar 1st St Tondiarpet",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 610350
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "R K Nagar UPHC",
+            "pincode": 600081,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "1 1ST AVENNUE BESANT NAGAR CHENNAI",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 610717
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Besant Nagar UPHC",
+            "pincode": 600090,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC Chinna Colony AthipetAmbattur Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183936
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Athipet UPHC",
+            "pincode": 600053,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "66 S. A.colony 8th Streetvyasarpadi",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 609446
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Sharma Nagar UPHC",
+            "pincode": 600011,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "UPHC44 Walltax RoadRoyapuramChennai",
+            "block": {
+                "name": "Royapuram"
+            },
+            "center": {
+                "id": 217350
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "P K Garden UPHC",
+            "pincode": 600079,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "UPHC Veeramamunivar Street Mugappair (E) Chennai",
+            "block": {
+                "name": "Ambattur"
+            },
+            "center": {
+                "id": 183965
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Mugappair East UPHC",
+            "pincode": 600037,
+            "sessions": "  ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "18:00:00"
+        },
+        {
+            "address": "No 157 Anna Salai Guindy Chennai 600015",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 609559
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "10:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Rainbow Childrens Medicare",
+            "pincode": 600015,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "199 LUZ CHURCH RD KAPALI THOTTAM MYLAPORE CHENNAI",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 627109
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "10:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kavery Hospital-Covaxin",
+            "pincode": 600004,
+            "sessions": "   ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:00:00",
+            "vaccine": {
+                "fees": " "
+            }
+        },
+        {
+            "address": "12 A Nageswara Rd Tirumurthy Nagar Nungambakkam Chennai",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 603898
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Kanchi Kamakoti Child Trust",
+            "pincode": 600034,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "T.HROAD TONDIARPET",
+            "block": {
+                "name": "Tondiarpet"
+            },
+            "center": {
+                "id": 606093
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Hospital Tondiarpet",
+            "pincode": 600081,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "36 5th Main Rd Thillaiganga Nagar Nanganallur Chennai Tamil Nadu 600061",
+            "block": {
+                "name": "Alandur"
+            },
+            "center": {
+                "id": 613588
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "15:00:00",
+            "lat": 0,
+            "long": 0,
+            "name": "B M Hospitals",
+            "pincode": 600061,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "NO 54 PONAMALLAE HIGH ROAD KILPAUK",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 604150
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "10:30:00",
+            "lat": 13,
+            "long": 80,
+            "name": "APOLLO FIRST MED",
+            "pincode": 600010,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Anna Main Rd Bharathidasan Colony",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 603756
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Free"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Government Peripheral Hosp KKN",
+            "pincode": 600078,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:00:00"
+        },
+        {
+            "address": "New No 72 Old No 54 Nelson Manickam Rd Aminjikarai Chennai",
+            "block": {
+                "name": "Anna Nagar"
+            },
+            "center": {
+                "id": 630696
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "11:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "MGM COVAXIN",
+            "pincode": 600030,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "17:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "320  PADMA COMPLEX ANNA SALAI TEYNAMPET CHENNAI",
+            "block": {
+                "name": "Teynampet"
+            },
+            "center": {
+                "id": 603579
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Apollo Speciality Hospitals",
+            "pincode": 600035,
+            "sessions": " ",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "16:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Plot No. 46 7th Street Tansi Nagar Velachey- 600042",
+            "block": {
+                "name": "Adyar"
+            },
+            "center": {
+                "id": 626956
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "10:00:00",
+            "lat": 12,
+            "long": 80,
+            "name": "Apollo Clinic VELACHEY",
+            "pincode": 600042,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "13:00:00",
+            "vaccine": {
+                "fees": ""
+            }
+        },
+        {
+            "address": "Arcot Road Vadapalani",
+            "block": {
+                "name": "Kodambakkam"
+            },
+            "center": {
+                "id": 582614
+            },
+            "district": {
+                "name": "Chennai"
+            },
+            "fee": {
+                "type": "Paid"
+            },
+            "from": "09:00:00",
+            "lat": 13,
+            "long": 80,
+            "name": "Fortis Hospitals Vadapalani",
+            "pincode": 600026,
+            "sessions": "",
+            "state": {
+                "name": "Tamil Nadu"
+            },
+            "to": "15:30:00",
+            "vaccine": {
+                "fees": ""
+            }
+        }
+    ]
+}
